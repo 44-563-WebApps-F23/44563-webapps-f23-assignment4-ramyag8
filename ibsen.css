@@ -48,3 +48,46 @@
      font-size: medium;
      font-family: 'Courier New', Courier, monospace;
    }
+   .TABLE th, td {
+    color: black;
+     font-size: medium;
+     text-align: center;
+     background-color: lightgrey;
+     width: 100px;
+     border: 3px solid green;
+     padding:10px;
+     margin: 10px;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .TABLE th:hover {
+        background-color: aqua;
+   }
+   .TABLE th {
+    background-color: greenyellow;
+}
+.TABLE td {
+    background-color:cornsilk ;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: brown;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: blueviolet;
+  }
