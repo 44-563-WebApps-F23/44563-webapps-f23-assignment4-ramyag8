@@ -1,0 +1,50 @@
+.direction {
+    color: black;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: aqua;
+   }
+
+.speech {
+    color: black;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+   }
+.direction:hover {
+    color: red;
+    background-color: antiquewhite;
+  }
+.name {
+    color: black;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .name:hover {
+    text-shadow: 0 0 2px #FF0000, 0 0 3px #0000FF;
+     
+}
+.ALVING {
+    color: red;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .OSWALD {
+    color: blue;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .MANDERS {
+    color: green;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .ENGSTRAND {
+    color: yellow;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
+   .REGINA {
+    color: pink;
+     font-size: medium;
+     font-family: 'Courier New', Courier, monospace;
+   }
